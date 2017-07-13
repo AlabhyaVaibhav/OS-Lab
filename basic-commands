@@ -1,0 +1,61 @@
+$ who i am 
+$ date 
+$ cal 
+$ cal 1990 
+$ cal 9 1990
+$ cal month year 
+$ rcm -f
+$ rcm -z
+$ cmp file1 file 2 
+$ echo 
+$ read 
+$ mkdir
+$ cd 
+$ cd /
+$ touch filename
+$ cat > filename
+$ cat file1 > file 2
+$ cp file1 file2 
+$ wc -l filename
+$ wc -c filename
+$ wc -w filename
+$ wc -wl filename
+$ rm 
+$ sort filename 
+$ group abc filename 
+$ head filename
+	$ head -no.of lines filename
+	$ head -7 alan-turing. txt
+$ tail filename 
+$ ps 
+$ kill PID
+-------------------------VI-------------------------------
+$ vi abc.sh 
+Insert Mode (I)
+Replace Mode (R)
+Append Mode (A)
+Open Mode (O)
+up - K
+down - J 
+Left - H
+Right - L  
+:wq - save and quit
+:q - quit 
+------------------------------------------------------
+$ vi abc.sh 
+To write use insert mode (I)
+After writing program press "ESC"
+save and quit - :wq 
+Execute - $sh abc.sh 	
+
+
+
+
+
+~
+~
+~
+~
+~
+~
+~
